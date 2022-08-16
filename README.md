@@ -7,7 +7,8 @@ Autos R Us' new vehicle, the MechaCar, is facing production issues that is imped
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.   
 
 ## Linear Regression to Predict MPG  
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?![Screen Shot 2022-08-15 at 5 39 05 PM](https://user-images.githubusercontent.com/103051630/184719539-eeb238b8-5262-4ee4-94c5-c43703ad81e5.png)
+
 Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
